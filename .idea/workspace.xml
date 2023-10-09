@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d6e5baa-f29c-49eb-851e-e7e2c9d8af1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/Exam_Advance_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/src/ra/bussiness/IShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/src/ra/bussinessImp/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/src/ra/bussinessImp/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_1/src/ra/run/ProductManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_2/Exam_Advance_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_2/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_3/Exam_Advance_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam_Advance_3/src/ParentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nangcaohackathon.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WW70g8HfLNqYV2OmnvOWf54072" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/van_duy/Documents/JAVACORE/Nangcaohackathon/Exam_Advance_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exam_Advance_1" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d6e5baa-f29c-49eb-851e-e7e2c9d8af1c" name="Changes" comment="" />
+      <created>1696836264579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696836264579</updated>
+      <workItem from="1696836265931" duration="3520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
